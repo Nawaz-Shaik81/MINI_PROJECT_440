@@ -63,4 +63,54 @@ int main() {
     return 0;
 }
 
+/* INPUT & OUTPUT:
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 1
+Enter two numbers: 23 32
+Result: 55.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 2
+Enter two numbers: 23 32
+Result: -9.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 3
+Enter two numbers: 23 32
+Result: 736.00
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 4
+Enter two numbers: 23 32
+Result: 0.72
+
+Simple Calculator
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit */
+
+
+
 
